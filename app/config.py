@@ -29,4 +29,4 @@ class Settings(BaseSettings):
         env_file = './.env'
 
 
-settings = Settings('D:\\PYTHON PROJECTS\\secure_rest_api\\.env')
+settings = Settings()
